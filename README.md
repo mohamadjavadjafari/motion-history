@@ -10,4 +10,4 @@ One of the most important diffrence is that save limited number of the frames to
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/mohamadjavadjafari/motion-history/blob/master/LICENSE) file for details
