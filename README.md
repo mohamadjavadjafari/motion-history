@@ -1,2 +1,13 @@
-# motion-history
-Dark Objects Motion History Tracker
+## Motion History
+---
+This project like to [Motion-tracker]() project with some diffrence.
+
+One of the most important diffrence is that save limited number of the frames to a queue and find path of motions with convexhull.
+
+### Contributors
+
+* Mohamad Javad Jafari (javadomnia@hotmail.com)
+
+### License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
